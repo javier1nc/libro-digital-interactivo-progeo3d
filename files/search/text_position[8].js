@@ -1,0 +1,1 @@
+positionForPages[8]={"page":8,"positions":[{"word":"4","left":0.139187,"top":0.069181,"width":0.010060,"height":0.011155},{"word":"\u00bfQu\u00e9","left":0.672423,"top":0.067883,"width":0.049598,"height":0.015427},{"word":"es","left":0.728702,"top":0.071777,"width":0.020121,"height":0.008740},{"word":"ProGeo3D","left":0.756012,"top":0.068984,"width":0.093317,"height":0.011532}]};
